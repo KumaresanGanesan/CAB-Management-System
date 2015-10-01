@@ -1,0 +1,30 @@
+c:\users\administrator\documents\visual studio 2012\Projects\CAB Management System\CAB Management System\bin\CAB Management System.dll
+c:\users\administrator\documents\visual studio 2012\Projects\CAB Management System\CAB Management System\bin\CAB Management System.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\CAB Management System\CAB Management System\bin\Antlr3.Runtime.dll
+c:\users\administrator\documents\visual studio 2012\Projects\CAB Management System\CAB Management System\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\administrator\documents\visual studio 2012\Projects\CAB Management System\CAB Management System\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+c:\users\administrator\documents\visual studio 2012\Projects\CAB Management System\CAB Management System\bin\DotNetOpenAuth.AspNet.dll
+c:\users\administrator\documents\visual studio 2012\Projects\CAB Management System\CAB Management System\bin\DotNetOpenAuth.Core.dll
+c:\users\administrator\documents\visual studio 2012\Projects\CAB Management System\CAB Management System\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\administrator\documents\visual studio 2012\Projects\CAB Management System\CAB Management System\bin\DotNetOpenAuth.OAuth.dll
+c:\users\administrator\documents\visual studio 2012\Projects\CAB Management System\CAB Management System\bin\DotNetOpenAuth.OpenId.dll
+c:\users\administrator\documents\visual studio 2012\Projects\CAB Management System\CAB Management System\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\administrator\documents\visual studio 2012\Projects\CAB Management System\CAB Management System\bin\EntityFramework.dll
+c:\users\administrator\documents\visual studio 2012\Projects\CAB Management System\CAB Management System\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+c:\users\administrator\documents\visual studio 2012\Projects\CAB Management System\CAB Management System\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\administrator\documents\visual studio 2012\Projects\CAB Management System\CAB Management System\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\administrator\documents\visual studio 2012\Projects\CAB Management System\CAB Management System\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\administrator\documents\visual studio 2012\Projects\CAB Management System\CAB Management System\bin\Microsoft.Web.Infrastructure.dll
+c:\users\administrator\documents\visual studio 2012\Projects\CAB Management System\CAB Management System\bin\System.Web.Optimization.dll
+c:\users\administrator\documents\visual studio 2012\Projects\CAB Management System\CAB Management System\bin\System.Web.Providers.dll
+c:\users\administrator\documents\visual studio 2012\Projects\CAB Management System\CAB Management System\bin\WebGrease.dll
+c:\users\administrator\documents\visual studio 2012\Projects\CAB Management System\CAB Management System\bin\EntityFramework.xml
+c:\users\administrator\documents\visual studio 2012\Projects\CAB Management System\CAB Management System\bin\DotNetOpenAuth.Core.xml
+c:\users\administrator\documents\visual studio 2012\Projects\CAB Management System\CAB Management System\bin\DotNetOpenAuth.OAuth.xml
+c:\users\administrator\documents\visual studio 2012\Projects\CAB Management System\CAB Management System\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\administrator\documents\visual studio 2012\Projects\CAB Management System\CAB Management System\bin\DotNetOpenAuth.OpenId.xml
+c:\users\administrator\documents\visual studio 2012\Projects\CAB Management System\CAB Management System\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\administrator\documents\visual studio 2012\Projects\CAB Management System\CAB Management System\bin\DotNetOpenAuth.AspNet.xml
+c:\users\administrator\documents\visual studio 2012\Projects\CAB Management System\CAB Management System\obj\Debug\CAB Management System.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\CAB Management System\CAB Management System\obj\Debug\CAB Management System.dll
+c:\users\administrator\documents\visual studio 2012\Projects\CAB Management System\CAB Management System\obj\Debug\CAB Management System.pdb
